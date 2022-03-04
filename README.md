@@ -5,4 +5,4 @@
 - <a href="https://valerioiacobucci.com/">Personal website</a>
 - <a href="https://pattex16.github.io/">Personal projects website</a>
 
-![](https://github.com/iacobucci/anim.gif)
+![](https://github.com/iacobucci/iacobucci/blob/main/anim.gif)
