@@ -1,1 +1,1 @@
-![ansiart](./ansi_art.svg)
+![term](./term.png)
